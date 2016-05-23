@@ -1,0 +1,26 @@
+{
+  "name": "blankui",
+  "description": "blank...",
+  "main": "index.js",
+  "authors": [
+    "Danny Hadley <dadleyy@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs": "2.2.0",
+    "foundation-sites": "6.1.0",
+    "sass-bem": "~2.5.3",
+    "vue": "~1.0.21",
+    "page": "visionmedia/page.js#~1.7.1",
+    "q": "1.0.1"
+  }
+}
